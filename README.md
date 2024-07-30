@@ -2,6 +2,8 @@
 
 ### Ping pong multimodule service
 
+### Run docker compose file docker-compose.yml
+
 ### Build project
 mvn clean install
 
